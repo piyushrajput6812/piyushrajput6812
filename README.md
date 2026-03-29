@@ -5,9 +5,6 @@
 🔬 Interested in Artificial Intelligence, Human-Computer Interaction, and Intelligent Systems  
 
 I am a research-oriented Computer Science graduate currently working at **CSIR-CSIO** on machine learning based eye gaze tracking systems and behavioral analysis. My work focuses on designing, evaluating, and optimizing intelligent systems that operate in real-world environments with limited computational resources.
-
-I am particularly interested in pursuing a **PhD in Artificial Intelligence**, focusing on building robust and scalable AI systems that solve complex real-world problems.
-
 ---
 
 # 🔬 Research Interests
@@ -82,22 +79,6 @@ Responsibilities include:
 **Gaze Estimation Optimization through Performance Analysis of ResNet Variants**  
 Procedia Computer Science, Volume 260, 2025  
 Authors: Shivalika Goyal, Piyush Thakur, Amit Laddi
-
----
-
-### Accepted
-
-**Dried Biofluid Droplet Morphologies for Automated and Scalable Disease Classification**  
-Droplet (Wiley Online Library), 2025  
-Authors: Anusuya Pal, Piyush Thakur, Amalesh Gope, Ryuta Uraki, Kawaoka Yoshihiro, Miho Yanagisawa
-
----
-
-### Under Review
-
-- Multi-modal machine learning for rapid bacterial detection from droplet drying patterns  
-- Gaze Estimation for Accessibility: How Webcams Can Enhance User Interaction  
-- Cross Dataset Generalization in Appearance Based Gaze Estimation
 
 ---
 

@@ -94,11 +94,11 @@ Authors: Shivalika Goyal, Piyush Thakur, Amit Laddi
 ---
 
 # 🎓 Education
-**Master of Business Administration, CDOE, Panjab University, Chandigarh, India 160014**
-   Aug 2024 - June 2026
+**Master of Business Administration, CDOE, Panjab University, Chandigarh, India 160014** <br>
+Aug 2024 – June 2026
 
-**Bachelor of Technology (Computer Science and Engineering), ABVGIET, Shimla, H.P, India 171202** 
-   Aug 2019 - Jun 2023 
+**Bachelor of Technology (Computer Science and Engineering), ABVGIET, Shimla, H.P, India 171202** <br>
+Aug 2019 – Jun 2023
 
 ---
 

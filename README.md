@@ -1,6 +1,6 @@
 # Hi 👋 I'm Piyush Thakur
 
-🎓 Research-Oriented Computer Scientist | Machine Learning & Computer Vision  
+🎓 Research Oriented Computer Scientist | Machine Learning & Computer Vision  
 📍 Chandigarh, India  
 🔬 Interested in Artificial Intelligence, Human-Computer Interaction, and Intelligent Systems  
 
@@ -58,10 +58,10 @@ I am a research-oriented Computer Science graduate currently working at **CSIR-C
 # 🌍 International Research Collaborations
 
 ### 🇨🇭 USI Lugano, Switzerland
-Working on **webcam based eye gaze tracking and behavioral modeling** using consumer grade devices.
+Working on webcam based eye gaze tracking and behavioral modeling using consumer grade devices.
 
 ### 🇯🇵 University of Tokyo, Japan
-Working on **deep learning analysis of dried biofluid droplet morphologies** for automated disease classification.
+Working on deep learning analysis of dried biofluid droplet morphologies for automated disease classification.
 
 Responsibilities include:
 

@@ -5,6 +5,7 @@
 🔬 Interested in Artificial Intelligence, Human-Computer Interaction, and Intelligent Systems  
 
 I am a research-oriented Computer Science graduate currently working at **CSIR-CSIO** on machine learning based eye gaze tracking systems and behavioral analysis. My work focuses on designing, evaluating, and optimizing intelligent systems that operate in real-world environments with limited computational resources.
+
 ---
 
 # 🔬 Research Interests

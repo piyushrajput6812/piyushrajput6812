@@ -170,17 +170,4 @@ ABVGIET, Himachal Pradesh
 
 ---
 
-# 🌐 Connect With Me
-
-Website  
-www.piyushthakur.com  
-
-LinkedIn  
-https://www.linkedin.com/in/piyush-thakur-55b6271a0  
-
-Email  
-piyushrajput6812@gmail.com  
-
----
-
 ⭐ I am open to collaborations in **AI, Computer Vision, and Human Behavior Analysis Research**

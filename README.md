@@ -75,8 +75,6 @@ Responsibilities include:
 
 # 📄 Publications
 
-### Published
-
 **Gaze Estimation Optimization through Performance Analysis of ResNet Variants**  
 Procedia Computer Science, Volume 260, 2025  
 Authors: Shivalika Goyal, Piyush Thakur, Amit Laddi
